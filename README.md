@@ -27,3 +27,6 @@ load the image and play with the settings,output to dxf/svg load to laser softwa
 
 
 ![cut](https://i.imgur.com/uZqRu0F.jpeg)
+
+
+![test video](https://youtu.be/IEgEOOfng6k)
