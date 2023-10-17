@@ -7,6 +7,7 @@ halftonz is the mac arm64 build
 
 halftonz_intel is mac intel build
 
+currently the mac builds needs to be signed otherwise you have to allow unsigned....
 
 just a quick repo for exe while i prep the rest.
 
