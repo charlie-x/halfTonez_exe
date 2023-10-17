@@ -1,7 +1,10 @@
 # halfTonez_exe
 halftonez release exe
 
+halftonz.exe is the windows intel build
+
 halftonz is the mac arm64 build
+
 halftonz_intel is mac intel build
 
 
