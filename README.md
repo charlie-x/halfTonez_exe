@@ -1,6 +1,9 @@
 # halfTonez_exe
 halftonez release exe
 
+halftonz is the mac arm64 build
+halftonz_intel is mac intel build
+
 
 just a quick repo for exe while i prep the rest.
 
